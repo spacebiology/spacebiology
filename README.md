@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **spacebiology/spacebiology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### About the profile icon 
+##### About the profile icon 
 <a href="https://www.flaticon.com/free-icons/space-game" title="space game icons">Space game icons created by manshagraphics - Flaticon</a>
