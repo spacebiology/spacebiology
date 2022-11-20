@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### About the profile icon 
+<a href="https://www.flaticon.com/free-icons/space-game" title="space game icons">Space game icons created by manshagraphics - Flaticon</a>
